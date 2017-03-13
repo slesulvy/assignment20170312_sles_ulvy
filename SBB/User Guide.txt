@@ -1,0 +1,18 @@
+*** Welcome to my Assignment Simple Bulletin Board(SBB) ***
+======== requirement:
+
+Language : Java
+Technology: Spring + Maven + hibernate
+Database: mySql 
+web server: tomcat v8.0
+
+========= How to run the project:
+1. download zip file from my email  and extract the zip file
+2. create database using query in the file "sql for create database.txt" (SBB/db/sql for create database.txt) copy the content in tis file to run SQL in mySQL
+3. import database back up data. (when you import database please brows to file sbb_db_back_up_data.sql in SBB/db/sbb_db_back_up_data.sql)
+3. import the project that have extract into eclipse ide. Note***(import as maven project becasue this project we use maven).
+4. run the project (Note: run as sever and choose tomcat v8.0)
+5. open your web browser and write this link below:
+	->	http://localhost:8080/SpringMVCHibernateCRUD/  or you can copy link in eclipse when the project finished running (Note: make sure that you are run on port 8080).
+
+**** thanks your for your time to read the user guide, please enjoy it.

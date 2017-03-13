@@ -1,0 +1,9 @@
+
+CREATE TABLE IF NOT EXISTS content_tbl (
+    id int NOT NULL AUTO_INCREMENT,
+    title varchar(255) NOT NULL,
+    writer varchar(255),
+    content text,
+    create_dt datetime,
+    PRIMARY KEY (id)
+);
